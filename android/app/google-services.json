@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51935476187",
+    "firebase_url": "https://chatter-46336.firebaseio.com",
+    "project_id": "chatter-46336",
+    "storage_bucket": "chatter-46336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51935476187:android:ed55e21bdb1297656a0ffe",
+        "android_client_info": {
+          "package_name": "com.obstem.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51935476187-ji532k2suig1ofdac6gc9ttgr8t26m13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7j8WUZQ8RO2BFR37E_SGakczN23WZiWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51935476187-ji532k2suig1ofdac6gc9ttgr8t26m13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
